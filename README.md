@@ -1,5 +1,5 @@
 # Regex-exercise
-Automata Theory and Formal Languages Assignment,MATH 321 @MEF, Fall 2019
+Automata Theory and Formal Languages Assignment,MATH 321 @ MEF University, Fall 2019
 
 run : java regex inputtext.txt
 
